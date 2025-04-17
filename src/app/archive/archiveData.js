@@ -32,7 +32,7 @@ const archiveData = [
       {
         title: 'Kerstin Ljungström - Summer',
         type: 'image',
-        image: '/archive/ljungstrom-summer/KerstinLjungstroom-SummerTour_2025-Tradgaarden_Storsjoyran-1080x1920-K2.jpg',
+        image: '/archive/ljungstrom-summer/KerstinLjungstrom-SummerTour_2025-Tradgarden_Storsjoyran-1080x1920-K2.jpg',
         width: 9,
         height: 16,
       },
