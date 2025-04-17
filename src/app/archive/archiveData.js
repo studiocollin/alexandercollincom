@@ -2,7 +2,7 @@
 
 const archiveData = [
     {
-        title: 'Kerstin Ljungström - Håll Käften',
+        title: 'JIM OUMA - Where Did You Go',
         type: 'video',
         video: '/archive/jimouma-wdyg/WhereDidYouGo-Canvas-HB.mp4',
         width: 9,
@@ -11,14 +11,14 @@ const archiveData = [
       {
         title: 'Kerstin Ljungström - Håll Käften',
         type: 'image',
-        image: '/archive/ljungstrom-hallkaften/KerstinLjungström-250203-AlexanderCollin-0877.jpg',
+        image: '/archive/ljungstrom-hallkaften/KerstinLjungstrom-250203-AlexanderCollin-0877.jpg',
         width: 4,
         height: 5,
       },
       {
         title: 'Kerstin Ljungström - Håll Käften',
         type: 'image',
-        image: '/archive/ljungstrom-hallkaften/KerstinLjungström-HållKäften-Artwork-final-sRGB.jpg',
+        image: '/archive/ljungstrom-hallkaften/KerstinLjungstrom-HallKaften-Artwork-final-sRGB.jpg',
         width: 1,
         height: 1,
       },
@@ -32,7 +32,7 @@ const archiveData = [
       {
         title: 'Kerstin Ljungström - Summer',
         type: 'image',
-        image: '/archive/ljungstrom-summer/KerstinLjungström-SummerTour_2025-Trädgården_Storsjöyran-1080x1920-K2.jpg',
+        image: '/archive/ljungstrom-summer/KerstinLjungstroom-SummerTour_2025-Tradgaarden_Storsjoyran-1080x1920-K2.jpg',
         width: 9,
         height: 16,
       },
