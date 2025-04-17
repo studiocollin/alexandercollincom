@@ -4,21 +4,19 @@ export default function BioPage() {
         <div className="max-w-5xl grid grid-cols-1 md:grid-cols-[2fr_1fr_1fr] gap-12">
           <div className="text-xs leading-relaxed space-y-2">
             <p>
-              Alexander Collin is a visual director working across photography, film, and design. His work is grounded in clarity, mood, and cultural intuition.
+            Alexander is a visual artist and creative director based in Stockholm, Sweden.
             </p>
             <p>
-              With a background in advertising and years of experience of music and perspective rooted in creative direction, Alexander works with artists, labels, and select brands to craft visuals that live with permanence. His style is raw, intentional, and emotionally tuned.
+            Working across photography, film, and design, his practice is defined by a raw, intentional style. With natural intent, he captures the interplay of light, form, and emotion—where texture, composition, and movement give space for meaning to emerge.
             </p>
+            <p>Rooted in culture and collaboration, Alexander moves fluidly between disciplines, creating both commissioned and experimental works with conceptual depth and visual clarity.</p>
+            <p>Available for work worldwide.</p>
             <p>
-              Based in Stockholm. Available for collaborations worldwide.
-            </p>
-            <p>
-              Selected work includes album campaigns, documentary-style artist portraits, analog and digital artwork for vinyl and CD, editorial campaigns, and visual identities. Each project is built on trust, instinct, and refinement.
-            </p>
-            <p>
-              Contact: <br />
-              <a href="mailto:alexander@alexandercollin.com" className="underline">
-                alexander@alexandercollin.com
+              <a href="mailto:alexander@alexandercollin.com" className="underline" target="_blank">
+                Mail
+              </a><br />
+              <a href="https://instagram.com/alexandercollin" className="underline" target="_blank">
+                Instagram
               </a>
               <br />
               <br />
