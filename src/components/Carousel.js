@@ -41,7 +41,7 @@ const Carousel = ({ images }) => {
       <img
         src={images[current]}
         alt={`Slide ${current}`}
-        className="max-h-[70vh] max-w-[70vw] object-contain"
+        className="max-h-[80vh] max-w-[80vw] object-contain"
       />
     </main>
   )
