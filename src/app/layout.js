@@ -15,9 +15,12 @@ export default function RootLayout({ children }) {
           <Link href="/" className="hover:opacity-60 font-medium">
             Alexander Collin
           </Link>
-          <Link href="mailto:alexander@alexandercollin.com" className="hover:opacity-60 font-medium">
+          
+           <nav className="flex space-x-6">
+            <Link href="mailto:alexander@alexandercollin.com" className="hover:opacity-60 font-medium">
             E-mail
           </Link>
+          </nav>
         </header>
         {children}
       </body>
