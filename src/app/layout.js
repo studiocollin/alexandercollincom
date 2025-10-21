@@ -17,9 +17,11 @@ export default function RootLayout({ children }) {
           </Link>
           
            <nav className="flex space-x-6">
-            <Link href="mailto:alexander@alexandercollin.com" className="hover:opacity-60 font-medium">
+           
+           <Link href="mailto:alexander@alexandercollin.com" className="hover:opacity-60 font-medium">
             E-mail
-          </Link>
+            </Link>
+          
           </nav>
         </header>
         {children}

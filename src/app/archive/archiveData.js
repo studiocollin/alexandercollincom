@@ -4,6 +4,12 @@ const archiveData = [
     {
         title: 'JIM OUMA - Where Did You Go',
         type: 'video',
+        video: '/archive/eec-htl/eec02.mp4',
+        width: 5,
+        height: 4,
+      },{
+        title: 'JIM OUMA - Where Did You Go',
+        type: 'video',
         video: '/archive/jimouma-wdyg/WhereDidYouGo-Canvas-HB.mp4',
         width: 9,
         height: 16,
