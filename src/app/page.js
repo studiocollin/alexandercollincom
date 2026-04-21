@@ -2,6 +2,7 @@ import Carousel from '@/components/Carousel'
 
 const images = [
   'archive/ljungstrom-hallkaften/KerstinLjungstrom-250203-AlexanderCollin-0877.jpg',
+  '/images/index/IsonFille_AlexanderCollin-0132-2.jpg',
   '/images/index/eec02.jpg',
   '/images/index/joback-fott-01.jpg',
   '/archive/jamkid/286667874_745598489809422_5628512537186377452_n.jpg',
