@@ -1,6 +1,13 @@
 // src/app/archive/archiveData.js
 
 const archiveData = [
+  {
+        title: 'Ison & Fille - Stjärnor & Fallna Änglar',
+        type: 'image',
+        image: '/archive/sfa/cover.jpg',
+        width: 4,
+        height: 3,
+      },
     {
         title: 'JIM OUMA - Where Did You Go',
         type: 'video',
@@ -126,6 +133,13 @@ const archiveData = [
         video: '/archive/ex/ex.mp4',
         width: 4,
         height: 3, // 4:3 landscape
+      },
+       {
+        title: 'Maja Francis - Anxious Angel',
+        type: 'video',
+        video: '/archive/anxiousangel/MajaFrancis_AnxiousAngel-Post-Teaser_sh264.mp4',
+        width: 4,
+        height: 5,
       },
       {
         title: 'Kerstin Ljungström - Ex',
